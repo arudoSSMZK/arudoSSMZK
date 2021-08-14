@@ -2,8 +2,6 @@
 
 ### idk what to write about myself
 
-Skills: Python / Rust
-
 - 🌱 I’m currently learning Rust 
 - 🤔 I’m looking for help with Rust, maybe
 
