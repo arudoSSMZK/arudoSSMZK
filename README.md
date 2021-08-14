@@ -1,4 +1,4 @@
-# arudo
+![arudo](https://cdn.discordapp.com/attachments/730740024693489756/876244552254640158/arudooooo.png)
 ![](https://cdn.discordapp.com/attachments/730740024693489756/876203067635277824/a977753de93b75cdcada92b2816a4ed2.jpg)
 
 ### idk what to write about myself
@@ -9,3 +9,10 @@ Skills: Python / Rust
 - 🤔 I’m looking for help with Rust, maybe
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arudoSSMZK&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Lang Tools
+![TestShit](https://cdn.discordapp.com/attachments/730740024693489756/876234585481035837/rusdttttttt.png)
+![TestShit](https://cdn.discordapp.com/attachments/730740024693489756/876236691642409020/pythonnn.png)
+## DB Tools
+![TestShit](https://cdn.discordapp.com/attachments/730740024693489756/876239618205446174/mongoooo.png)
+![TestShit](https://cdn.discordapp.com/attachments/730740024693489756/876241927668916254/psqllllll.png)
