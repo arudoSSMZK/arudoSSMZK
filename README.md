@@ -1,5 +1,4 @@
 ![arudo](https://cdn.discordapp.com/attachments/730740024693489756/876244552254640158/arudooooo.png)
-![](https://cdn.discordapp.com/attachments/730740024693489756/876203067635277824/a977753de93b75cdcada92b2816a4ed2.jpg)
 
 ### idk what to write about myself
 
